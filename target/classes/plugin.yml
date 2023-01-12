@@ -1,0 +1,5 @@
+name: Bedwars1058-RushMode
+version: '1.0-SNAPSHOT'
+main: net.go176.mcwiki.rushmode.RushMode
+depend:
+  - BedWars1058
